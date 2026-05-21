@@ -1,0 +1,9 @@
+CustomerID,Product,Region,Revenue,Status
+101,Laptop,North,4500,Converted
+102,Phone,South,2500,Interested
+103,Tablet,East,1200,New
+104,Laptop,West,6000,Converted
+105,Phone,North,3000,Contacted
+106,Tablet,East,1800,New
+107,Laptop,West,7000,Converted
+108,Phone,South,2200,Interested
